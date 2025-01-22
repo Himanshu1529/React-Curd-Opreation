@@ -14,7 +14,7 @@ This project demonstrates a CRUD (Create, Read, Update, Delete) application buil
 - **Firebase**: Backend as a service for real-time database and hosting.
 - 
 ## 📸 Screenshot
-![Tenzies Game Screenshot](https://github.com/Himanshu1529/React-Curd-Opreation/blob/main/Screenshot%202025-01-22%20215829.png) 
+![Screenshot](https://github.com/Himanshu1529/React-Curd-Opreation/blob/main/Screenshot%202025-01-22%20215829.png) 
 
 ## Installation and Setup
 
