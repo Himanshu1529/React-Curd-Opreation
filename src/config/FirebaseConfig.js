@@ -3,7 +3,7 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBB_UiK5VkSFMWAj5hReNaFou-cEUu5vTU",
+  apiKey: "",
   authDomain: "timeline-6abb4.firebaseapp.com",
   projectId: "timeline-6abb4",
   storageBucket: "timeline-6abb4.firebasestorage.app",
