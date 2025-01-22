@@ -4,11 +4,11 @@ import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
   apiKey: "",
-  authDomain: "timeline-6abb4.firebaseapp.com",
-  projectId: "timeline-6abb4",
-  storageBucket: "timeline-6abb4.firebasestorage.app",
-  messagingSenderId: "404220330707",
-  appId: "1:404220330707:web:86f5641a37ff53e99b8a26",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
 };
 
 const app = initializeApp(firebaseConfig);
