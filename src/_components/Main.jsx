@@ -256,6 +256,7 @@ function Main() {
                   <thead>
                     <tr>
                       <th>Name</th>
+                      <th>Age</th>
                       <th>DOB</th>
                       <th>Email</th>
                       <th>Actions</th>
@@ -265,6 +266,7 @@ function Main() {
                     {users.map((user) => (
                       <tr key={user.id}>
                         <td>{user.name}</td>
+                        <td>{user.age}</td>
                         <td>{user.dob}</td>
                         <td>{user.email}</td>
                         <td>
