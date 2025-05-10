@@ -102,12 +102,11 @@ Follow these steps to run the project locally:
 ## License
 This project is licensed under the MIT License.
 
-## Author
+## Author   
 **Himanshu Sharma**  
 [GitHub Profile](https://github.com/Himanshu1529)
 
-**Website **
-[himanshusharma](https://himanshusharma01.vercel.app)
+[Website](https://himanshusharma01.vercel.app)
 ---
 
 Enjoy building and exploring the CRUD application!
